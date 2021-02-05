@@ -14,9 +14,10 @@ A general summation of how the program works:
 # Project Milestones
 * Running imt.py script takes in a word input and estimates how many attempts it will take the "monkey" to generate that same word.
 * Added the ability to log the attempts in the console, although this does increase wait time.
+* Logs the results into a text file.
 
 # Project Goals
-* Export the attempts to a text file if the player wants it logged.
+* ~~Export the attempts to a text file if the player wants it logged.~~
 * Add capitalization and punctuation if the performance isn't completely unrealistic.
 
 
