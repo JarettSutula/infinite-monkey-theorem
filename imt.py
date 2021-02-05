@@ -16,8 +16,8 @@ from simulation import simulate_imt
 word = input("What word would you like to find today? ")
 word = word.lower()
 
-print("\nWould you like to log every attempt? NOTE: This will " +
-      "drastically increase wait time. \nNot recommended for long words. ")
+print("\nWould you like to log every attempt in a text file? NOTE: This will" +
+      " drastically increase wait time. \nNot recommended for long words. ")
 logging = input("Y/N: ")
 
 if logging.lower() == "y":
