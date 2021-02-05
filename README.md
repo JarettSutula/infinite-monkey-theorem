@@ -1,5 +1,5 @@
 # infinite-monkey-theorem
-#### A small simulator of the Infinite Monkey Theorem.
+#### A small simulator of the Infinite Monkey Theorem. :computer::monkey:
 
 The Infinite Monkey Theorem roughly states that, given an infinite amount of time and a keyboard, a monkey hitting keys at random would type any given text.
 
