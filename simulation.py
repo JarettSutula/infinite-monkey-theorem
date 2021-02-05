@@ -42,8 +42,8 @@ def simulate_imt(word, logging):
     if logging:
         print("\n\nWord has been found!")
         print("\nCheck imt_result.txt for details.")
-        output_file.write("\n\n Estimated: " + str(attempts))
-        output_file.write("\n Actual:    " + str(count))
+        output_file.write("\n\nEstimated: " + str(attempts))
+        output_file.write("\nActual:    " + str(count))
         if over_under > 0:
             output_file.write("\nThe monkey was " + str(over_under) +
                               " attempts under its estimation.")
